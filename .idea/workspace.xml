@@ -2,8 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2657f52b-e0ec-458f-b47c-379233c14dc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/huangvincent.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group1-shard10of19.bin" beforeDir="false" afterPath="$PROJECT_DIR$/group1-shard10of19.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group1-shard11of19.bin" beforeDir="false" afterPath="$PROJECT_DIR$/group1-shard11of19.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group1-shard12of19.bin" beforeDir="false" afterPath="$PROJECT_DIR$/group1-shard12of19.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group1-shard13of19.bin" beforeDir="false" afterPath="$PROJECT_DIR$/group1-shard13of19.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group1-shard14of19.bin" beforeDir="false" afterPath="$PROJECT_DIR$/group1-shard14of19.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group1-shard15of19.bin" beforeDir="false" afterPath="$PROJECT_DIR$/group1-shard15of19.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group1-shard16of19.bin" beforeDir="false" afterPath="$PROJECT_DIR$/group1-shard16of19.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group1-shard17of19.bin" beforeDir="false" afterPath="$PROJECT_DIR$/group1-shard17of19.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group1-shard18of19.bin" beforeDir="false" afterPath="$PROJECT_DIR$/group1-shard18of19.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group1-shard19of19.bin" beforeDir="false" afterPath="$PROJECT_DIR$/group1-shard19of19.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group1-shard1of19.bin" beforeDir="false" afterPath="$PROJECT_DIR$/group1-shard1of19.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group1-shard2of19.bin" beforeDir="false" afterPath="$PROJECT_DIR$/group1-shard2of19.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group1-shard3of19.bin" beforeDir="false" afterPath="$PROJECT_DIR$/group1-shard3of19.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group1-shard4of19.bin" beforeDir="false" afterPath="$PROJECT_DIR$/group1-shard4of19.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group1-shard5of19.bin" beforeDir="false" afterPath="$PROJECT_DIR$/group1-shard5of19.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group1-shard6of19.bin" beforeDir="false" afterPath="$PROJECT_DIR$/group1-shard6of19.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group1-shard7of19.bin" beforeDir="false" afterPath="$PROJECT_DIR$/group1-shard7of19.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group1-shard8of19.bin" beforeDir="false" afterPath="$PROJECT_DIR$/group1-shard8of19.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group1-shard9of19.bin" beforeDir="false" afterPath="$PROJECT_DIR$/group1-shard9of19.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.json" beforeDir="false" afterPath="$PROJECT_DIR$/model.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +65,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582507953251</updated>
-      <workItem from="1582507957507" duration="2271000" />
+      <workItem from="1582507957507" duration="2965000" />
+      <workItem from="1582560532791" duration="1713000" />
     </task>
     <task id="LOCAL-00001" summary="changed html title">
       <created>1582508562254</created>
@@ -57,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582511606785</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="changed uploaded .js from 5 classes to 3">
+      <created>1582511967451</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582511967451</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,7 +98,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changed html title" />
     <MESSAGE value="changed html description" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed html description" />
+    <MESSAGE value="changed uploaded .js from 5 classes to 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed uploaded .js from 5 classes to 3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582510968329">
@@ -77,17 +110,21 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="418" y="271" key="#com.intellij.fileTypes.FileTypeChooser/-1024.61.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1582511257781" />
-    <state x="102" y="64" key="CommitChangelistDialog2" timestamp="1582511606603">
+    <state x="102" y="64" key="CommitChangelistDialog2" timestamp="1582511967191">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="102" y="64" key="CommitChangelistDialog2/-1024.61.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1582511606603" />
+    <state x="102" y="64" key="CommitChangelistDialog2/-1024.61.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1582511967191" />
     <state x="221" y="100" key="SettingsEditor" timestamp="1582511445119">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/-1024.61.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1582511445119" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1582511614266">
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1582511970056">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/-1024.61.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1582511614266" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/-1024.61.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1582511970056" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1582560579741">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1582560579741" />
   </component>
 </project>
