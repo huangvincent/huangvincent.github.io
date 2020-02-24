@@ -20,6 +20,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -31,7 +32,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582507953251</updated>
-      <workItem from="1582507957507" duration="1654000" />
+      <workItem from="1582507957507" duration="1872000" />
     </task>
     <task id="LOCAL-00001" summary="changed html title">
       <created>1582508562254</created>
@@ -63,5 +64,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="102" y="64" key="CommitChangelistDialog2/-1024.61.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1582508562051" />
+    <state x="221" y="100" key="SettingsEditor" timestamp="1582511445119">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="100" key="SettingsEditor/-1024.61.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1582511445119" />
   </component>
 </project>
